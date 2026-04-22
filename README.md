@@ -7,7 +7,7 @@
 ## 🛠 Технологии и инструменты
 
 **Backend:** Python
-**AI & LLM:**
+AI & LLM:
 - LangChain
 - OpenAI API, GPT модели
 - RAG (Retrieval-Augmented Generation)
